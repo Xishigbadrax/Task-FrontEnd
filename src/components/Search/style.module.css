@@ -1,0 +1,25 @@
+.Search {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 0px 0px 16px;
+  border-radius: 8px;
+  background: #f7f8fb;
+  position: absolute;
+  width: 260px;
+  border: none;
+  height: 44px;
+  left: 1040px;
+  top: 32px;
+}
+.Submit {
+  position: absolute;
+  width: 640px;
+  height: 48px;
+  left: 363px;
+  top: 5675.14px;
+  border: none;
+  background: #f5f7f6;
+  border-radius: 10px;
+}

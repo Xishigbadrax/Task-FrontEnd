@@ -1,0 +1,66 @@
+.Winter {
+  position: absolute;
+  width: 440.56px;
+  height: 61px;
+  left: 84.96px;
+  top: 1111.43px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 46px;
+  line-height: 132%;
+
+  text-transform: uppercase;
+
+  color: #000000;
+}
+
+.Txt {
+  position: absolute;
+  width: 406.55px;
+  height: 60px;
+  left: 84.96px;
+  top: 1194.36px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 138.19%;
+  /* or 30px */
+
+  color: #636363;
+}
+
+.img2 {
+  position: absolute;
+  width: 224.4px;
+  height: 291.58px;
+  left: 1134.22px;
+  top: 942.42px;
+}
+
+.img3 {
+  position: absolute;
+  width: 224.4px;
+  height: 286.11px;
+  left: 1134.22px;
+  top: 1239.84px;
+}
+.Txt2 {
+  position: absolute;
+  width: 379px;
+  height: 22px;
+  left: 979.62px;
+  top: 1541.79px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 138.19%;
+  /* or 22px */
+
+  color: #585858;
+}

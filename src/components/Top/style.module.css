@@ -1,0 +1,112 @@
+.Top {
+  position: absolute;
+  width: 1439.65px;
+  height: 41.02px;
+  left: 0.17px;
+  top: 0px;
+
+  background: #3a416f;
+}
+.Top1 {
+  position: absolute;
+  width: 83px;
+  height: 14px;
+  left: 73.97px;
+  top: 14.51px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+.Ellipse {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  left: 42.97px;
+  top: 12.51px;
+  color: white;
+  box-sizing: border-box;
+}
+.Top1Txt {
+  position: absolute;
+  width: 99px;
+  height: 14px;
+  left: 749.4px;
+  top: 14.51px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  /* identical to box height */
+
+  text-decoration-line: underline;
+
+  color: #ffffff;
+}
+.Top2 {
+  position: absolute;
+  width: 131px;
+  height: 14px;
+  left: 604.4px;
+  top: 14.51px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.A1 {
+  position: absolute;
+  width: 42px;
+  height: 24px;
+  left: 1291.52px;
+  top: 9.51px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 200.69%;
+  /* identical to box height, or 24px */
+  text-decoration: none;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.A2 {
+  position: absolute;
+  width: 46px;
+  height: 24px;
+  left: 1356.5px;
+  top: 9.51px;
+  text-decoration: none;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 200.69%;
+  /* identical to box height, or 24px */
+
+  text-align: center;
+
+  color: #ffffff;
+}
+.A1:hover {
+  text-decoration: underline;
+}
+.A2:hover {
+  text-decoration: underline;
+}

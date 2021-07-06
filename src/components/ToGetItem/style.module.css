@@ -1,0 +1,407 @@
+.Item1 {
+  position: absolute;
+  width: 216px;
+  height: 350px;
+  left: 273px;
+  top: 3660.25px;
+  border-radius: 4px;
+}
+.Text1 {
+  position: absolute;
+  width: 216px;
+  height: 32px;
+  left: 273px;
+  top: 4022.85px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  /* or 133% */
+
+  letter-spacing: 1px;
+
+  color: #212121;
+}
+.Price1_1 {
+  position: absolute;
+  width: 51px;
+  height: 13px;
+  left: 273px;
+  top: 4083.44px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 14px;
+  /* or 127% */
+
+  letter-spacing: 1px;
+  text-decoration-line: line-through;
+
+  color: #212121;
+}
+.Price2_1 {
+  position: absolute;
+  width: 44px;
+  height: 13px;
+  left: 332px;
+  top: 4083.44px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 14px;
+  /* or 127% */
+
+  letter-spacing: 1px;
+
+  /* States & More / Red (Error) */
+
+  color: #b00020;
+}
+
+/* item 3-iin style */
+.Item3 {
+  position: absolute;
+  width: 216px;
+  height: 350px;
+  left: 725px;
+  top: 3660.25px;
+
+  border-radius: 4px;
+}
+.Text3 {
+  position: absolute;
+  width: 216px;
+  height: 32px;
+  left: 725px;
+  top: 4022.85px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  /* or 133% */
+
+  letter-spacing: 1px;
+
+  color: #212121;
+}
+.Price1_3 {
+  position: absolute;
+  width: 51px;
+  height: 13px;
+  left: 725px;
+  top: 4083.44px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 14px;
+  /* or 127% */
+
+  letter-spacing: 1px;
+  text-decoration-line: line-through;
+
+  color: #212121;
+}
+.Price2_3 {
+  position: absolute;
+  width: 44px;
+  height: 13px;
+  left: 784px;
+  top: 4083.44px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 14px;
+  /* or 127% */
+
+  letter-spacing: 1px;
+
+  /* States & More / Red (Error) */
+
+  color: #b00020;
+}
+
+/* item 4-iin style */
+
+.Item4 {
+  position: absolute;
+  width: 216px;
+  height: 350px;
+  left: 951px;
+  top: 3660.25px;
+  border-radius: 4px;
+}
+.Text4 {
+  position: absolute;
+  width: 216px;
+  height: 32px;
+  left: 951px;
+  top: 4022.85px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  /* or 133% */
+
+  letter-spacing: 1px;
+
+  color: #212121;
+}
+.Price1_4 {
+  position: absolute;
+  width: 51px;
+  height: 13px;
+  left: 951px;
+  top: 4083.44px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 14px;
+  /* or 127% */
+
+  letter-spacing: 1px;
+  text-decoration-line: line-through;
+
+  color: #212121;
+}
+.Price2_4 {
+  position: absolute;
+  width: 44px;
+  height: 13px;
+  left: 1010px;
+  top: 4083.44px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 14px;
+  /* or 127% */
+
+  letter-spacing: 1px;
+
+  /* States & More / Red (Error) */
+
+  color: #b00020;
+}
+
+/* item 5-iin style */
+
+.Item5 {
+  position: absolute;
+  width: 216px;
+  height: 350px;
+  left: 273px;
+  top: 4129.46px;
+  border-radius: 4px;
+}
+.Text5 {
+  position: absolute;
+  width: 216px;
+  height: 32px;
+  left: 273px;
+  top: 4492.06px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  /* or 133% */
+
+  letter-spacing: 1px;
+
+  color: #212121;
+}
+.Price1_5 {
+  position: absolute;
+  width: 51px;
+  height: 13px;
+  left: 273px;
+  top: 4560.65px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 14px;
+  /* or 127% */
+
+  letter-spacing: 1px;
+  text-decoration-line: line-through;
+
+  color: #212121;
+}
+.Price2_5 {
+  position: absolute;
+  width: 44px;
+  height: 13px;
+  left: 332px;
+  top: 4560.65px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 14px;
+  /* or 127% */
+
+  letter-spacing: 1px;
+
+  /* States & More / Red (Error) */
+
+  color: #b00020;
+}
+
+/* item 7-iin style */
+
+.Item7 {
+  position: absolute;
+  width: 216px;
+  height: 350px;
+  left: 725px;
+  top: 4129.46px;
+  border-radius: 4px;
+}
+.Text7 {
+  position: absolute;
+  width: 216px;
+  height: 32px;
+  left: 725px;
+  top: 4492.06px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  /* or 133% */
+
+  letter-spacing: 1px;
+
+  color: #212121;
+}
+.Price1_7 {
+  position: absolute;
+  width: 51px;
+  height: 13px;
+  left: 725px;
+  top: 4560.65px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 14px;
+  /* or 127% */
+
+  letter-spacing: 1px;
+  text-decoration-line: line-through;
+
+  color: #212121;
+}
+.Price2_7 {
+  position: absolute;
+  width: 44px;
+  height: 13px;
+  left: 784px;
+  top: 4560.65px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 14px;
+  /* or 127% */
+
+  letter-spacing: 1px;
+
+  /* States & More / Red (Error) */
+
+  color: #b00020;
+}
+
+/* item 8-iin style */
+
+.Item8 {
+  position: absolute;
+  width: 216px;
+  height: 350px;
+  left: 951px;
+  top: 4129.46px;
+  border-radius: 4px;
+}
+.Text8 {
+  position: absolute;
+  width: 216px;
+  height: 32px;
+  left: 951px;
+  top: 4492.06px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  /* or 133% */
+
+  letter-spacing: 1px;
+
+  color: #212121;
+}
+.Price1_8 {
+  position: absolute;
+  width: 51px;
+  height: 13px;
+  left: 951px;
+  top: 4560.65px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 14px;
+  /* or 127% */
+
+  letter-spacing: 1px;
+  text-decoration-line: line-through;
+
+  color: #212121;
+}
+.Price2_8 {
+  position: absolute;
+  width: 44px;
+  height: 13px;
+  left: 1010px;
+  top: 4560.65px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 14px;
+  /* or 127% */
+
+  letter-spacing: 1px;
+
+  /* States & More / Red (Error) */
+
+  color: #b00020;
+}
+
+/* item 5-iin style */

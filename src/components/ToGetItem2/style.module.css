@@ -1,0 +1,86 @@
+.Colors2 {
+  position: absolute;
+  left: 501.2px;
+  top: 4534.06px;
+}
+
+.el img {
+  width: 12px;
+  margin: 0px 5px;
+  height: 12px;
+}
+
+.Seventeen {
+  width: 22px;
+  height: 14px;
+  left: 681.2px;
+  top: 4533.06px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 20px;
+  /* identical to box height, or 127% */
+
+  letter-spacing: 1px;
+
+  color: #212121;
+}
+.Img2 {
+  position: absolute;
+  width: 216px;
+  height: 350px;
+  left: 499px;
+  top: 4129.46px;
+  border-radius: 4px;
+}
+.Text2 {
+  position: absolute;
+  width: 216px;
+  height: 32px;
+  left: 499.2px;
+  top: 4492.06px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  /* or 133% */
+
+  letter-spacing: 1px;
+
+  color: #212121;
+}
+.Img1 {
+  position: absolute;
+  width: 216px;
+  height: 350px;
+  left: 499px;
+  top: 3660.25px;
+  border-radius: 4px;
+}
+.Text1 {
+  position: absolute;
+  width: 216px;
+  height: 32px;
+  left: 499.2px;
+  top: 4022.85px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  /* or 133% */
+
+  letter-spacing: 1px;
+
+  color: #212121;
+}
+.Colors1 {
+  position: absolute;
+
+  left: 501.2px;
+  top: 4064.85px;
+}

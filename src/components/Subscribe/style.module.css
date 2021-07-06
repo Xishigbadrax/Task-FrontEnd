@@ -1,0 +1,57 @@
+.Sub {
+  position: absolute;
+  width: 166px;
+  height: 48px;
+  left: 600px;
+  top: 5555.14px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 48px;
+  /* identical to box height, or 133% */
+
+  text-align: center;
+  letter-spacing: 1px;
+
+  color: #4f5255;
+}
+
+.Text1 {
+  position: absolute;
+  width: 640px;
+  height: 16px;
+  left: 363px;
+  top: 5625.14px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  text-align: center;
+  letter-spacing: 1px;
+
+  color: #4f5255;
+}
+.Text2 {
+  position: absolute;
+  width: 592px;
+  height: 26px;
+  left: 387px;
+  top: 5731.14px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 13px;
+  /* or 130% */
+
+  letter-spacing: 0.5px;
+
+  color: #4f5255;
+}

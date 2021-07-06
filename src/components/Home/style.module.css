@@ -1,0 +1,9 @@
+.img1 {
+  position: absolute;
+  width: 1439.82px;
+  height: 1021.25px;
+  top: -160px;
+  background-size: cover;
+
+  z-index: -1;
+}

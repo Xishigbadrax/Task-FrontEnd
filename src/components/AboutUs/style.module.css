@@ -1,0 +1,55 @@
+.Back {
+  position: absolute;
+  width: 1440.9px;
+  height: 791.56px;
+  left: -0.1px;
+  top: 4708.44px;
+
+  background: #f5f7f6;
+}
+
+.Img1 {
+  position: absolute;
+  width: 960.41px;
+  height: 791.56px;
+  left: 0.03px;
+  top: 4708.44px;
+  border-radius: 4px;
+}
+.Text1 {
+  position: absolute;
+  width: 354.02px;
+  height: 36px;
+  left: 1010px;
+  top: 4786.91px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 34px;
+  line-height: 106.3%;
+  /* or 36px */
+
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+
+  color: #1f1f1f;
+
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.09);
+}
+.Text2 {
+  position: absolute;
+  width: 368.3px;
+  height: 138px;
+  left: 1010px;
+  top: 4851.39px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 142.3%;
+  /* or 23px */
+
+  color: #353535;
+}

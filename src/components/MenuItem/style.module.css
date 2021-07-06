@@ -1,0 +1,110 @@
+.Women {
+  position: absolute;
+  width: 49px;
+  height: 26px;
+  left: 42.72px;
+  top: 44.02px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 200.69%;
+  /* identical to box height, or 26px */
+
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.Men {
+  position: absolute;
+  width: 29px;
+  height: 26px;
+  left: 131.72px;
+  top: 44.02px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 200.69%;
+  /* identical to box height, or 26px */
+
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #ffffff;
+}
+.Home {
+  position: absolute;
+  width: 37px;
+  height: 26px;
+  left: 200.72px;
+  top: 44.02px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 200.69%;
+  /* identical to box height, or 26px */
+
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.Acc {
+  position: absolute;
+  width: 84px;
+  height: 26px;
+  left: 277.72px;
+  top: 44.02px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 200.69%;
+  /* identical to box height, or 26px */
+
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.Org {
+  position: absolute;
+  width: 56px;
+  height: 26px;
+  left: 401.72px;
+  top: 44.02px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 200.69%;
+  /* identical to box height, or 26px */
+
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+}
+.Women:hover {
+  text-decoration: underline;
+}
+.Men:hover {
+  text-decoration: underline;
+}
+.Home:hover {
+  text-decoration: underline;
+}
+.Acc:hover {
+  text-decoration: underline;
+}
+.Org:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,98 @@
+.Summer {
+  position: absolute;
+  width: 396px;
+  height: 108px;
+  left: 872.01px;
+  top: 125.64px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 90px;
+  line-height: 108px;
+
+  text-align: center;
+
+  color: #ffffff;
+
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.09);
+}
+.Sale {
+  position: absolute;
+  width: 136px;
+  height: 69px;
+  left: 985.85px;
+  top: 213.64px;
+
+  font-family: "Mr Dafoe";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 82px;
+  line-height: 84.4%;
+  /* or 69px */
+
+  text-align: center;
+
+  color: #e85757;
+
+  transform: rotate(-8.99deg);
+}
+.Upto {
+  position: absolute;
+  width: 88px;
+  height: 38px;
+  left: 857.01px;
+  top: 441.82px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 38px;
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #ffffff;
+
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.09);
+}
+.Sixty {
+  position: absolute;
+  width: 223px;
+  height: 162px;
+  left: 963.32px;
+  top: 274.32px;
+
+  font-family: "Lato", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 135px;
+  line-height: 162px;
+
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+
+.Ff {
+  position: absolute;
+  width: 46px;
+  height: 48px;
+  left: 1225.32px;
+  top: 430.82px;
+
+  font-family: "Lato", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 48px;
+  /* identical to box height */
+
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #ffffff;
+
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.09);
+}

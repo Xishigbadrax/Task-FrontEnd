@@ -1,0 +1,38 @@
+.A1 {
+  position: absolute;
+  width: 49px;
+  height: 26px;
+  left: 42.72px;
+  top: 74.02px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 200.69%;
+  /* identical to box height, or 26px */
+
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+.Men {
+  position: absolute;
+  width: 29px;
+  height: 26px;
+  left: 131.72px;
+  top: 74.02px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 200.69%;
+  /* identical to box height, or 26px */
+
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}

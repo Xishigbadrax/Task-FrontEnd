@@ -1,0 +1,38 @@
+.Txt {
+  position: absolute;
+  width: 92px;
+  height: 48px;
+  left: 667.1px;
+  top: 2629.18px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 48px;
+
+  color: #000000;
+
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.09);
+}
+.Img1 {
+  position: absolute;
+  width: 459.28px;
+  height: 700.88px;
+  left: 20.72px;
+  top: 2618.53px;
+}
+.Img2 {
+  position: absolute;
+  width: 458.83px;
+  height: 700.88px;
+  left: 485.72px;
+  top: 2763.93px;
+}
+.Img3 {
+  position: absolute;
+  width: 458.82px;
+  height: 700.88px;
+  left: 950.56px;
+  top: 2618.53px;
+}

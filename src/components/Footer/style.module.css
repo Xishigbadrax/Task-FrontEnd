@@ -1,0 +1,104 @@
+.Container {
+  position: absolute;
+  width: 1443.37px;
+  height: 438.01px;
+  left: -2.57px;
+  top: 5805.03px;
+  z-index: -1;
+  background: linear-gradient(0deg, #f5f7f6, #f5f7f6), #ffffff;
+}
+.Footer1 {
+  position: absolute;
+  width: 1189px;
+  height: 312px;
+  left: 0.03px;
+  top: 5867.04px;
+
+  background: linear-gradient(0deg, #ffffff, #ffffff), #ffffff;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.05);
+}
+.Text1 {
+  position: absolute;
+  width: 242px;
+  height: 17px;
+  left: 86.57px;
+  top: 6200.32px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 140.69%;
+  /* identical to box height, or 17px */
+
+  text-align: center;
+
+  color: #575f61;
+}
+.Text2 {
+  position: absolute;
+  width: 89px;
+  height: 16px;
+  left: 1249.02px;
+  top: 5919.59px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.1em;
+
+  color: #1d1d1d;
+}
+.Fb {
+  position: absolute;
+  width: 9.34px;
+  height: 18px;
+  left: 1252px;
+  top: 5973.58px;
+}
+.Ins {
+  position: absolute;
+  width: 17px;
+  height: 17px;
+  left: 1247.67px;
+  top: 6008.58px;
+}
+.Twit {
+  position: absolute;
+  width: 17px;
+  height: 13.81px;
+  left: 1248.67px;
+  top: 6043.58px;
+}
+.You {
+  position: absolute;
+  width: 17px;
+  height: 11.92px;
+  left: 1248.67px;
+  top: 6077.58px;
+}
+.Text3 {
+  position: absolute;
+  width: 83px;
+  height: 14px;
+  left: 1246.01px;
+  top: 6139.83px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  /* identical to box height */
+
+  color: #5f5f5f;
+}
+.Globe {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  left: 1338.02px;
+  top: 6146.83px;
+}

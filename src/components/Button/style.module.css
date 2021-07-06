@@ -1,0 +1,89 @@
+.Button {
+  position: absolute;
+  width: 190.63px;
+  height: 54px;
+  left: 964px;
+  top: 620px;
+
+  border: 1px solid white;
+  background: #ffffff;
+  border-radius: 10px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 138.19%;
+  cursor: pointer;
+  color: #000000;
+}
+
+.Button2 {
+  position: absolute;
+  width: 181.56px;
+  height: 56px;
+  left: 84.96px;
+  top: 1300.36px;
+
+  border: 1px solid black;
+  background: #272727;
+  border-radius: 10px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 138.19%;
+  cursor: pointer;
+  color: #ffffff;
+}
+.Button3 {
+  position: absolute;
+  width: 170px;
+  height: 56px;
+  left: 1010px;
+  top: 5040.06px;
+
+  border: 1px solid black;
+  background: #272727;
+  border-radius: 10px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 138.19%;
+  cursor: pointer;
+  color: #ffffff;
+}
+.Button4 {
+  position: absolute;
+  width: 158px;
+  height: 48px;
+  left: 845px;
+  top: 5675.14px;
+
+  border: 1px solid black;
+  background: #272727;
+  border-radius: 10px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 138.19%;
+  cursor: pointer;
+  color: #ffffff;
+}
+.Button:hover {
+  background: #272727;
+  color: #ffffff;
+}
+.Button2:hover {
+  background: #ffffff;
+  color: #000000;
+}
+.Button3:hover {
+  background: #ffffff;
+  color: #000000;
+}
+.Button4:hover {
+  background: #ffffff;
+  color: #000000;
+}
